@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price
+1,Laptop,Electronics,36069.91
+2,Smartphone,Electronics,10829.65
+3,Headphones,Electronics,22632.59
+4,Smartwatch,Electronics,11501.83
+5,Keyboard,Electronics,17012.69
+6,Mouse,Electronics,22729.6
+7,Monitor,Electronics,20857.88
+8,Speaker,Electronics,4844.78
+9,Tablet,Electronics,21395.52
+10,Power Bank,Electronics,33288.88
+11,T-Shirt,Clothing,18777.62
+12,Jeans,Clothing,7716.68
+13,Jacket,Clothing,46156.95
+14,Shirt,Clothing,3449.95
+15,Dress,Clothing,41605.42
+16,Hoodie,Clothing,4752.18
+17,Shorts,Clothing,4918.57
+18,Kurta,Clothing,36965.92
+19,Saree,Clothing,40607.29
+20,Track Pants,Clothing,27862.9
+21,Mixer,Home,29364.61
+22,Vacuum Cleaner,Home,28123.16
+23,Cookware Set,Home,16549.33
+24,Chair,Home,6199.34
+25,Table,Home,17744.54
+26,Lamp,Home,33300.49
+27,Bedsheet,Home,37539.18
+28,Pillow,Home,43417.8
+29,Fan,Home,36080.93
+30,Bottle,Home,48423.09
+31,Rice,Groceries,30060.46
+32,Wheat Flour,Groceries,17647.14
+33,Sugar,Groceries,28938.13
+34,Tea,Groceries,10715.67
+35,Coffee,Groceries,32871.14
+36,Oil,Groceries,11289.82
+37,Biscuits,Groceries,5500.1
+38,Juice,Groceries,42284.13
+39,Milk Powder,Groceries,18441.3
+40,Spices,Groceries,38154.02
+41,Cricket Bat,Sports,28747.59
+42,Football,Sports,40380.35
+43,Badminton Racket,Sports,42273.24
+44,Yoga Mat,Sports,48729.88
+45,Dumbbells,Sports,40939.5
+46,Skipping Rope,Sports,30717.31
+47,Tennis Ball,Sports,32170.69
+48,Helmet,Sports,1410.07
+49,Gloves,Sports,46461.31
+50,Cycling Bottle,Sports,41490.09
