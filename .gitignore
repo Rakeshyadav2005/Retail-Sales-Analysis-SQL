@@ -1,0 +1,29 @@
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+
+# Python cache (future-proof)
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Node modules (if ever added)
+node_modules/
