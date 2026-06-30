@@ -26,3 +26,12 @@ CREATE TABLE Orders (
     FOREIGN KEY (ProductID)
         REFERENCES Products(ProductID)
 );
+
+SHOW TABLES;
+DESCRIBE Customers;
+DESCRIBE Products;
+DESCRIBE Orders;
+
+SELECT COUNT(*) FROM Customers;
+SELECT COUNT(*) FROM Products;
+SELECT COUNT(*) FROM Orders;
